@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Window theme only; the in-app theme is MaterialTheme in Compose. -->
+    <style name="Base.Theme.ComposeBasics" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.ComposeBasics" parent="Base.Theme.ComposeBasics" />
+</resources>

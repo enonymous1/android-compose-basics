@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compose Basics</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="welcome_text">Jetpack Compose,\nBasics.</string>
+    <string name="continue_button">Continue</string>
+    <string name="initial_greeting">Hello</string>
+    <string name="expanded_text">"Vivamus mattis condimentum mauris nec luctus. \nAliquam fringilla elementum nisl, et imperdiet orci.\n"</string>
+</resources>
